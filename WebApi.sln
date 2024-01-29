@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GianssWebApi", "GianssWebApi\GianssWebApi.csproj", "{CC0AA8B5-451D-440B-914F-AF1AF813A3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0AA8B5-451D-440B-914F-AF1AF813A3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0AA8B5-451D-440B-914F-AF1AF813A3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0AA8B5-451D-440B-914F-AF1AF813A3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0AA8B5-451D-440B-914F-AF1AF813A3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9AA6BA-F9A7-482E-9BD0-7E9C153792F0}
+	EndGlobalSection
+EndGlobal
