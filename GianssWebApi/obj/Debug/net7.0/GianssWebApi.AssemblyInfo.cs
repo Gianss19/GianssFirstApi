@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GianssWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf0e4a854664f7f59e3bc55716a9a158354e6ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e338fbba58d6eb3ff57eab6b4cb10586ea6dac77")]
 [assembly: System.Reflection.AssemblyProductAttribute("GianssWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GianssWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
